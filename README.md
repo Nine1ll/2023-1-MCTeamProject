@@ -2,6 +2,7 @@
 ##### 1. 파일별 변경 사항은 각 폴더의 READMD.md에 작성
 ##### 2. 오류는 마크다운 언어로 .md 파일 생성 후 작성
 ##### 3. 주기적인 회의의 회의록은 README.md 파일에 작성 
+##### 4. 커밋은 < 작업 이름 : 커밋 날짜 > 와 같이 작성한다.
 
 - 참고 사이트 : [마크다운 사용법] <https://gist.github.com/ihoneymon/652be052a0727ad59601>
 - 참고 : 어플리케이션 필수 구현 목록
@@ -16,8 +17,9 @@
 ##### 주제 공유 - 회의록 작성 : 김광영
 
 * 김광영
-    1. e-class 알리미
-[e-class 과제 알리미]<https://github.com/Nine1ll/AssignmentNotification>
+    1. e-class 알리미   
+[e-class 과제 알리미] 
+<https://github.com/Nine1ll/AssignmentNotification>   
 기존에 본인이 만들었던 기능을 기반(파이썬, 셀레니옴)으로 api화 시켜 연동 제안
 
 * 길현서
