@@ -36,7 +36,7 @@
 ##### 주제 확정 및 기능 & Project 이름 정하기 - 회의록 작성 : 김광영
 
 1. 카카오톡 투표 기능을 통해 투표 진행   
-    <img src="/path/to/img.jpg" width="450px" height="300px" alt="투표 이미지"></img><br/>
+    <img src="img/주제선정투표.png" width="300px" height="300px" alt="투표 이미지"></img><br/>
 
 2. 이후 구현 난이도 및 중요도 평가 후 주제 선정 (1일 1상식)
     - 회의를 통해
